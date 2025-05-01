@@ -53,5 +53,5 @@ If you're using SharedPreferences a lot, consider wrapping it in a helper class 
 
 Stay on top of your money with Finance Tracker. Easily record expenses, monitor budgets, and visualize where your money goes—perfect for smarter financial decisions."
 
-Let me know if you want one with a specific tone or for a certain audience (like students, professionals, families, etc.).
+
 
